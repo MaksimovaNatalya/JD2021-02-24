@@ -1,8 +1,4 @@
-package by.it.maksimova.jd02_05.txt;
-
-import by.it.maksimova.jd02_05.Language;
-import by.it.maksimova.jd02_05.Messages;
-import by.it.maksimova.jd02_05.User;
+package by.it.maksimova.jd02_05;
 
 import java.text.DateFormat;
 import java.util.Date;
